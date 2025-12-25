@@ -34,7 +34,7 @@ class generate_password:
       
     for i in range(4):
         print()
-    print("here is your password: "+password)
+    print("here is your password : "+password)
             
 
 
